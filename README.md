@@ -1,4 +1,4 @@
-# Super_Store_Sales_Analysis_-Power-BI
+# Super_Store_Sales_Analysis_Power-BI
 
 ## Objective
 
